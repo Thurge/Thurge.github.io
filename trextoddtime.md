@@ -23,7 +23,7 @@ No need for /s at the end if it's obvious at first sight!
 
 Example:
 
-![Example Image](./imgs/SarcasmScriptV1.PNG v1 release)
+![Example Image](./assets/images/SarcasmScriptV1.PNG v1 release)
 
 Hoping to re-release app on the Google Play Store soon! 
 
