@@ -37,15 +37,19 @@ I was convinced that being close to data collection would put me at the heart of
 
 I worked with the [PlayFab Client SDK](http://github.com/PlayFab/) team through the pandemic and helped support its [regular 2 week release cadence](https://github.com/toddbellMSFT) across multiple platforms like Unity, Unreal, npm, nuget, pypi, etc. 
 
-I Ensured they were ready for the Unreal Engine 5 release and the Xbox Series X release.
+Ensured Azure PlayFab was ready for the Unreal Engine 5 release.
 
-Xbox Series X release and regularly worked with external game developers to improve our systems. I also created PlayFab's [Python SDK](https://github.com/PlayFab/PythonSDK) and helped eventually move it to community support as well. 
+Helped with the release of the Xbox Series X, assuring PlayFab's continued compatibility. 
 
-I was credited in Playtesters Friends & Family on [Psychonauts 2](https://www.mobygames.com/game/170037/psychonauts-2/credits/windows/) shout out to [Becca](https://www.linkedin.com/in/rebecca-vessal/) for the once in a life time opportunity!
+Regularly worked with external game developers to improve our client side SDKs. 
 
-I helped move PlayFab's Jenkins based system to [Azure DevOps pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
+Created PlayFab's [Python SDK](https://github.com/PlayFab/PythonSDK) and helped eventually move it to community support as well. 
 
-I was On Call for [PlayFab Party](https://learn.microsoft.com/en-us/gaming/playfab/features/multiplayer/networking/)  
+Credited in Playtesters Friends & Family on [Psychonauts 2](https://www.mobygames.com/game/170037/psychonauts-2/credits/windows/) shout out to [Becca](https://www.linkedin.com/in/rebecca-vessal/) for the once in a life time opportunity!
+
+Migrated PlayFab's Jenkins based system to [Azure DevOps pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
+
+Expereinced regular On Call schedules for [PlayFab Party](https://learn.microsoft.com/en-us/gaming/playfab/features/multiplayer/networking/)  
 
 #### Tools Used:
 ![Tools and Platforms I used at PlayFab](./assets/images/playfabPlatforms.png PlayFab's supported platforms)
