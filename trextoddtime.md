@@ -2,7 +2,7 @@
 
 # Tyrannosaurous Rex Todd Time!
 
-## Sarcasm Script
+## SarcasmScript
 
 In March of 2020 Todd was bored during the pandemic so he thought he'd try to venture into modern Android Application development by making an app in Kotlin. 
 
@@ -23,7 +23,7 @@ No need for /s at the end if it's obvious at first sight!
 
 Example:
 
-![Example Image](./assets/images/SarcasmScriptV1.PNG v1 release)
+![Example Image](./assets/images/SarcasmScriptV1.PNG)
 
 Hoping to re-release app on the Google Play Store soon! 
 

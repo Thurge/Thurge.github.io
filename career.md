@@ -52,7 +52,7 @@ Migrated PlayFab's Jenkins based system to [Azure DevOps pipelines](https://lear
 Expereinced regular On Call schedules for [PlayFab Party](https://learn.microsoft.com/en-us/gaming/playfab/features/multiplayer/networking/)  
 
 #### Tools Used:
-![Tools and Platforms I used at PlayFab](./assets/images/playfabPlatforms.png PlayFab's supported platforms)
+![Tools and Platforms I used at PlayFab](./assets/images/playfabPlatforms.png)
 
 GitHub, Node.js, C++ (Unreal Engine), C# (Unity), PHP, ActionScript, Python, Azure
 
