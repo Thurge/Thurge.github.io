@@ -11,7 +11,8 @@ The application was simple. Make titles like [this satirical subreddit](https://
 [Example](https://www.reddit.com/r/PeopleFuckingDying/comments/1kbd0ox/helpless_chap_sustains_grevious_injuries_after/):
 
 hElPleSs cHaP sUsTaInS gReViOuS iNjUrIeS aFtEr FoUl BeAsT aTtAcK
-   But it's a guy getting poked at by a bird
+   
+But it's a guy getting poked at by a bird.
 
 Hilarious!
 
@@ -26,5 +27,7 @@ Example:
 ![Example Image](./assets/images/SarcasmScriptV1.PNG)
 
 Hoping to re-release app on the Google Play Store soon! 
+
+![Example 2 Image](./assets/images/SarcasmScriptV2.png)
 
 [Stay Tuned!](https://www.linkedin.com/in/todd-bello-68471321/)
